@@ -55,6 +55,6 @@ public class MyBatisPlusTest {
 
     @Test
     public void test(){
-
+        System.out.println("小明");
     }
 }

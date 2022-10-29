@@ -57,5 +57,6 @@ public class MyBatisPlusTest {
     public void test(){
         System.out.println("小明");
         System.out.println("----");
+        System.out.println("======");
     }
 }

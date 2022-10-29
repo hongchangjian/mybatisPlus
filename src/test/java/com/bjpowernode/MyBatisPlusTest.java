@@ -52,4 +52,9 @@ public class MyBatisPlusTest {
         map.put("age",24);
         int i = userMapper.deleteByMap(map);
     }
+
+    @Test
+    public void test(){
+
+    }
 }
